@@ -21,7 +21,7 @@ app.use(
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, './views'));
 
-app.locals.siteName = 'Nigsty ABREHA';
+app.locals.siteName = 'Nigsty Abreha';
 
 app.use(express.static(path.join(__dirname, './static')));
 
@@ -31,13 +31,13 @@ app.use((request, response, next) => {
   return next(createError(404, 'File not found'));
 });
 
-app.use((err, request, response, next) =>{
+app.use((err, request, response, next) => {
   response.locals.message = err.message;
   const status = err.status || 500;
   response.locals.status = status;
   response.status(status);
   response.render('error');
-})
+});
 
 app.listen(port, () => {
   console.log(`Express server listning on port ${port}!`);
