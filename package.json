@@ -6,10 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon --ignore feedback.json server.js",
-    "build": "echo 'build script executed'",
-    "homepage": "https://github.com/nigsty/CV.git",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "build": "echo 'build script executed'"
   },
   "author": "",
   "license": "ISC",
