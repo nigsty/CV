@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon --ignore feedback.json server.js",
-    "build": "echo 'build script executed'"
+    "dev": "nodemon --ignore feedback.json server.js"
   },
   "author": "",
   "license": "ISC",
