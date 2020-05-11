@@ -7,100 +7,97 @@
             </div>
         </div>
         <div class="container">
-            <p><i class="fa fa-briefcase fa-fw margin-right large-text text-choco"></i>Web Developer</p>
-            <p><i class="fa fa-home fa-fw margin-right large-text text-choco"></i>Pfäffikon SZ, CH</p>
-            <p><i class="fa fa-envelope fa-fw margin-right large-text text-choco"></i>nigsty_e@yahoo.com</p>
-            <p><i class="fa fa-phone fa-fw margin-right large-text text-choco"></i>078 845 69 03</p>
+            <p><i class="fa fa-briefcase fa-fw margin-right large-text text-choco"></i><%= cv.designation%></p>
+            <p><i class="fa fa-home fa-fw margin-right large-text text-choco"></i><%= cv.address%></p>
+            <p><i class="fa fa-envelope fa-fw margin-right large-text text-choco"></i><%= cv.email%></p>
+            <p><i class="fa fa-phone fa-fw margin-right large-text text-choco"></i><%= cv.phonenumber%></p>
             <hr>
-            <p class="large-text"><b><i class="fa fa-asterisk fa-fw margin-right text-choco"></i>Skills</b>
+            <p class="large-text"><b><i class="fa fa-asterisk fa-fw margin-right text-choco"></i><%= cv.competence.maintitle%></b>
             </p>
-            <div class="between-skills">
-                <p class="skill-title">Frontend</p>
 
-                <div>
-                    <ul class="rhom">
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-                        <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-                    </ul>
-                </div>
-                <p>
-                    <ul class="medium">
-                        <li>HTML 5</li>
-                        <li>CSS 3</li>
-                        <li>Javascript ES6</li>
-                        <li>PHP</li>
-                        <li>MsSQL</li>
-                        <li>Drupal</li>
-                        <li>Wordpress</li>
-                        <li>Webdesign Discipline</li>
-                    </ul>
-                </p>
-            </div>
-            <!--end of between-skills -->
-            <div class="between-skills">
-                <p class="skill-title">Object Oriented Programming</p>
-                <!-- <div class="light-choco round-xlarge small">
-                    <div class="container center round-xlarge choco" style="width:70%">70%</div>
 
-                </div> -->
-                <div>
-                    <ul class="rhom">
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-                        <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-                        <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-                    </ul>
-                </div>
-                <p>
-                    <ul class="medium">
-                        <li>Software Engineering (Software analysis und Software Design)</li>
-                        <li>Java</li>
-                    </ul>
-                </p>
-            </div>
+<div class="between-skills">
+    <p class="skill-title"><%=cv.frontend.title %></p>
+    <div>
+        <ul class="rhom">
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+        </ul>
+        <ul class="medium">
+            
+            <%cv.frontend.skills.forEach(el=>{%>
+             <li><%= el %></li>
+           <% }) %>
+        </ul>
+    </div>    
+    <hr>
+</div>
+
+<div class="between-skills">
+    <p class="skill-title"><%=cv.oop.title %></p>
+    <div>
+        <ul class="rhom">
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+        </ul>
+        <ul class="medium">
+            
+            <%cv.oop.skills.forEach(el=>{%>
+             <li><%= el %></li>
+           <% }) %>
+        </ul>
+    </div>
+    
+    <hr>
+</div>
+
+<div class="between-skills">
+    <p class="skill-title"><%=cv.nonprocedural.title %></p>
+    <div>
+        <ul class="medium">            
+            <%cv.nonprocedural.skills.forEach(el=>{%>
+             <li><%= el %></li>
+           <% }) %>
+           <ul class="medium">            
+            <%cv.procedural.skills.forEach(el=>{%>
+             <li><%= el %></li>
+           <% }) %>
+        </ul>
+        </ul>
+        
+        
+    </div>
+    
+    <hr>
+</div>
+
+           
             <!--end of between-skills -->
-            <div class="between-skills">
-                <p class="skill-title">Miscellaneous</p>
-                <p>
-                    <ul class="medium">
-                        <li>Eclipse</li>
-                        <li>Git</li>
-                        <li>internet communication & security</li>
-                        <li>Internet Project Management</li>
-                        <li>Online Marketing</li>
-                        <li>E-Commerce SEO und SEA</li>
-                        <li>Adobe Indesign, Photoshop, Illustrator</li>
-                        <li>Procedural programming</li>
-                        <ul>
-                            <li>Pascal</li>
-                            <li>Cobol</li>
-                            <li>Fortran</li>
-                            <li>Assembly language</li>
-                        </ul>
-                    </ul>
-                </p>
-                <hr>
-            </div>
+        
             <!--end of between-skills -->
-            <p class="large-text"><b><i class="fa fa-globe fa-fw margin-right text-choco"></i>Languages</b>
+           
+            <!--end of between-skills -->
+            <p class="large-text"><b><i class="fa fa-globe fa-fw margin-right text-choco"></i><%=cv.languages.title %></b>
             </p>
 
             <div class="between-skills">
-                <p class="skill-title">German, English</p>
+                <p class="skill-title"><%=cv.languages.data[0] %> , <%=cv.languages.data[1] %> </p>
                 <div>
                     <ul class="rhom">
                         <li class="rhom"><a class="rhombus step2"></a></li>
@@ -115,7 +112,7 @@
                         <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
                     </ul>
                 </div>
-                <p class="skill-title">Amharic, Tigriyna</p>
+                <p class="skill-title"><%=cv.languages.data[2] %> , <%=cv.languages.data[3] %></p>
                 <div>
                     <ul class="rhom">
                         <li class="rhom"><a class="rhombus step2"></a></li>
@@ -132,14 +129,15 @@
                 </div>
                 <hr>
             </div>
-            <p class="large-text"><b><i class="fa fa-map-marker fa-fw margin-right text-choco"></i>Hobbies &
-                    Interests</b>
+            <p class="large-text"><b><i class="fa fa-map-marker fa-fw margin-right text-choco"></i><%=cv.hobbies.title %> </b>
             </p>
             <div class="between-skills">
                 <div>
                     <ul>
-                        <li>Swimming, Table Tennis</li>
-                        <li>Intercultural Interpreting (Native Languages & German)</li>
+                        <%cv.hobbies.data.forEach(ele=>{%>
+                           <li><%= ele %></li>
+
+                        <%}) %>
                     </ul>
                 </div>
             </div>

@@ -18,7 +18,8 @@
     h3,
     h4,
     h5,
-    h6 {
+    h6,
+    .language a {
       font-family: 'Roboto', sans-serif;
     }
   </style>
@@ -26,17 +27,20 @@
   <body class="light-choco">
     <div class="content margin-top row-padding" style="max-width: 1400px;">
       <div class="row-padding">
-        <!-- <div style="text-align: right;">
-          <ul>
-            <li style="display: inline-block;"><a href="#eng" data-reload>English</a></li>
-            <li style="display: inline-block;"><a href="#de" data-reload>Deutsch</a></li>
-          </ul>
-        </div> -->
+        <ul class="language">
+          <li>
+            <a href="/english" data-reload class="text-grey">EN</a>
+          </li>
+          <li>
+            <a href="/deutsch" data-reload class="text-grey">DE</a>
+          </li>
+        </ul>
+
         <%- include(`../pages/${template}`) %>
       </div>
     </div>
     <footer class="container choco center margin-top">
-      <p>Powered and made by Nigsty with <i class="fa fa-heart"></i></p>
+      <p>Made with Node JS and EJS templating engine <i class="fa fa-heart"></i></p>
     </footer>
     <script src="js/script.js"></script>
   </body>

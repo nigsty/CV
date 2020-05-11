@@ -1,0 +1,185 @@
+{
+  "designation": "Frontend Developer",
+  "email": "nigsty_e@yahoo.com",
+  "address": "Pfäffikon SZ, CH",
+  "phonenumber": "078 845 69 03",
+
+  "competence": {
+    "maintitle": "Skills"
+  },
+  "frontend": {
+    "title": "Frontend",
+    "skills": [
+      "HTML 5",
+      "CSS 3",
+      "Javascript ES6",
+      "PHP",
+      "MsSQL",
+      "Drupal",
+      "Wordpress",
+      "Webdesign Discipline"
+    ]
+  },
+  "oop": {
+    "title": "OBJECT ORIENTED PROGRAMMING",
+    "skills": ["Software Engineering (Software analysis und Software Design)", "Java"]
+  },
+  "nonprocedural": {
+    "title": "MISCELLANEOUS",
+    "skills": [
+      "Eclipse",
+      "Git",
+      "internet communication & security",
+      "Internet Project Management",
+      "Online Marketing",
+      "E-Commerce SEO und SEA",
+      "Adobe Indesign, Photoshop, Illustrator",
+      "Procedural programming"
+    ]
+  },
+  "procedural": {
+    "title": "MISCELLANEOUS",
+    "skills": ["Pascal", "Cobol", "Fortran", "Assembly language"]
+  },
+
+  "languages": {
+    "title": "Languages",
+    "data": ["GERMAN", "ENGLISH", "AMHARIC", "TIGRIYNA"]
+  },
+
+  "experience": {
+    "title": "Work Experience",
+    "jobs": [
+      {
+        "title": "Family project and short Web development assignments",
+        "from_date": "Sep 2016 ",
+        "to_date": "Current",
+        "tasks": []
+      },
+      {
+        "title": "Frontend developer, FLX Labs, Wiedikon",
+        "from_date": "Aug 2015",
+        "to_date": "Aug 2016",
+        "tasks": [
+          "Develop web pages: design, programing, from the first idea to the finished product for use. Using HTML, CSS, Javascript",
+          "Silverstripe and Wordpress Open Sources CMS",
+          "Advising and assisting customers in the development of their website"
+        ]
+      },
+      {
+        "title": "Web Editing,  AO Foundation, Davos & Dübendorf, Project Work",
+        "from_date": "July 2014",
+        "to_date": "Sep 2014",
+        "tasks": ["Upload and extract data from the AO Surgery Reference Content Management System"]
+      },
+
+      {
+        "title": "Family work and postgraduate studies in Web Engineering",
+        "from_date": "Apr 2013",
+        "to_date": "Jul 2015",
+        "tasks": []
+      },
+      {
+        "title": "Data processing, Ferag AG, Hinwil Zürich",
+        "from_date": "Nov 2007",
+        "to_date": "Mar 2013",
+        "tasks": [
+          "Create print templates with IGP & Prescribe printer programming languages and Crystal Reports",
+          "Data processing - create, test and analyze Ferag production data",
+          "Telephone supports"
+        ]
+      },
+      {
+        "title": "Maternity and help my Ex-husband in own dental practice",
+        "from_date": "Aug 2004",
+        "to_date": "Oct 2007",
+        "tasks": []
+      },
+      {
+        "title": "Internet Designer, Stiftung Öko-JOB Foundation, Gelterkinden BL",
+        "from_date": "Jan 2004",
+        "to_date": "Jul 2004",
+        "tasks": [
+          "HTML programming of the website for the ÖKO-JOB Foundation",
+          "Preparation of a draft for the Internet presence of the project „Industrial Path Pratteln",
+          "Image editing in Adobe Photoshop"
+        ]
+      },
+      {
+        "title": "Internet Designer, Systor AG, Basel",
+        "from_date": "Jun 1999",
+        "to_date": "Mar 2003",
+        "tasks": [
+          "Portal for Corporate Design Guidelines of a major Swiss bank",
+
+          "Publishing the web content, processing web-friendly image materias",
+          "Support for Visual Communication Designers"
+        ]
+      },
+      {
+        "title": "PC-Supporter, „PC-House„ Addis Ababa",
+        "from_date": "Apr 1998",
+        "to_date": "Aug 1998",
+        "tasks": []
+      },
+      {
+        "title": "Computer assistent, University of medicine faculty, Addis Ababa ",
+        "from_date": "Aug 1996",
+        "to_date": "Apr 1998",
+        "tasks": []
+      },
+      {
+        "title": "Data Processing, Central Statistical Agency Of Ethiopia, Addis Ababa",
+        "from_date": "Jan 1995",
+        "to_date": "Jul 1996",
+        "tasks": []
+      }
+    ]
+  },
+
+  "education": {
+    "title": "Education",
+    "data": [
+      {
+        "title": "CAS Frontend Engineering, HSR University of Applied Sciences Rapperswil SG",
+        "from_date": "Apr 2020 -",
+        "to_date": "now",
+        "extra": ""
+      },
+      {
+        "title": "Web Engineering, Postgraduate Studies Höhere Fachschule Uster (Higher Technical School)",
+        "from_date": "Jan 2013 -",
+        "to_date": "Apr 2015",
+        "extra": ""
+      },
+      {
+        "title": "Web Technology, Design & Communication OnlineLabor Zürich Altstetten",
+        "from_date": "2013",
+        "to_date": "",
+        "extra": ""
+      },
+      {
+        "title": "Exam preparation for the „Goethe-Zertifikat C1“ HBS Rapperswil",
+        "from_date": "2011",
+        "to_date": "",
+        "extra": ""
+      },
+      {
+        "title": "CCNA CISCO Certified, Hochschule für Technik Rapperswil-SG",
+        "from_date": "July 2007",
+        "to_date": "",
+        "extra": ""
+      },
+      {
+        "title": "Diploma in Computer Science, Addis Abeba University. Recognized as a Diploma of a Higher Technical School HF (Informatics) in Switzerland",
+        "from_date": "1992 -",
+        "to_date": "1996",
+        "extra": ""
+      }
+    ]
+  },
+  "hobbies": {
+    "title": "Hobbies & Interests",
+    "data": ["Swimming", "Table Tennis", "Intercultural Interpreting (Native Languages & German)"]
+  }
+}
