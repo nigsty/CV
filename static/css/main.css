@@ -181,6 +181,9 @@ img {
 .hover-opacity:hover {
   opacity: 0.6;
 }
+.opacity-darker {
+  opacity: 1 !important;
+}
 .round,
 .round-medium {
   border-radius: 4px;
@@ -221,8 +224,8 @@ ul.language {
 
 /* sekw for desired angle */
 .step2 {
-  width: 1.6vw;
-  height: 1.6vw;
+  width: 1.3vw;
+  height: 1.3vw;
   transform: skewX(-45deg);
   margin: 5px;
 }
@@ -249,6 +252,12 @@ li.rhom a {
   color: white;
   text-align: center;
   text-decoration: none;
+}
+.text-grey-nav {
+  color: #757575;
+}
+.active {
+  color: #8b4513;
 }
 
 @media (min-width: 601px) {

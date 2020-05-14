@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .active {
+        color: #8b4513;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="navbar">
+      <a href="#" class="toggle" id="nav-hamburger">
+        <i class="fas fa-bars"></i>
+        <a href="#" class="brand">Appeal Digital</a>
+      </a>
+      <div class="links">
+        <a href="#" class="link active">Home</a>
+        <a href="#" class="link">Who are we?</a>
+        <a href="#" class="link">Meet the Team</a>
+        <a href="#" class="link">Contact Us</a>
+      </div>
+    </div>
+    <script>
+      const links = document.querySelectorAll('.links > a');
+
+      const changeActive = (e) => {
+        [...links].forEach((link) => link.classList.remove('active'));
+        e.target.classList.add('active');
+      };
+
+      [...links].forEach((e) => e.addEventListener('click', changeActive));
+    </script>
+  </body>
+</html>

@@ -1,4 +1,5 @@
 {
+  "welcome": "Welcome!",
   "designation": "Frontend Developer",
   "email": "nigsty_e@yahoo.com",
   "address": "Pfäffikon SZ, CH",
@@ -37,6 +38,7 @@
       "Procedural programming"
     ]
   },
+
   "procedural": {
     "title": "MISCELLANEOUS",
     "skills": ["Pascal", "Cobol", "Fortran", "Assembly language"]
@@ -47,17 +49,22 @@
     "data": ["GERMAN", "ENGLISH", "AMHARIC", "TIGRIYNA"]
   },
 
+  "hobbies": {
+    "title": "Hobbies & Interests",
+    "data": ["Swimming", "Table Tennis", "Intercultural Interpreting (Native Languages & German)"]
+  },
+
   "experience": {
     "title": "Work Experience",
     "jobs": [
       {
-        "title": "Family project and short Web development assignments",
+        "title": "<span class=\"opacity-darker\">Family project</span> and short Web development assignments",
         "from_date": "Sep 2016 ",
         "to_date": "Current",
         "tasks": []
       },
       {
-        "title": "Frontend developer, FLX Labs, Wiedikon",
+        "title": "<strong>Frontend developer</strong>, FLX Labs, Wiedikon",
         "from_date": "Aug 2015",
         "to_date": "Aug 2016",
         "tasks": [
@@ -171,15 +178,11 @@
         "extra": ""
       },
       {
-        "title": "Diploma in Computer Science, Addis Abeba University. Recognized as a Diploma of a Higher Technical School HF (Informatics) in Switzerland",
+        "title": "Diploma in Computer Science, Addis Abeba University. <br/>Recognized as a Diploma of a Higher Technical School HF (Informatics) in Switzerland",
         "from_date": "1992 -",
         "to_date": "1996",
         "extra": ""
       }
     ]
-  },
-  "hobbies": {
-    "title": "Hobbies & Interests",
-    "data": ["Swimming", "Table Tennis", "Intercultural Interpreting (Native Languages & German)"]
   }
 }

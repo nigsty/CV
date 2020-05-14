@@ -1,25 +1,32 @@
-<div class="third row-padding">
-    <div class="white-bg text-grey card">
-        <div class="display-container">
-            <img src="img/nigsty.jpg" style="width:100%" alt="Nigsty Equbamichael Abreha">
-            <div class="display-bottomleft container text-black">
-                <h2>Nigsty Abreha</h2>
-            </div>
-        </div>
-        <div class="container">
-            <p><i class="fa fa-briefcase fa-fw margin-right large-text text-choco"></i><%= cv.designation%></p>
-            <p><i class="fa fa-home fa-fw margin-right large-text text-choco"></i><%= cv.address%></p>
-            <p><i class="fa fa-envelope fa-fw margin-right large-text text-choco"></i><%= cv.email%></p>
-            <p><i class="fa fa-phone fa-fw margin-right large-text text-choco"></i><%= cv.phonenumber%></p>
-            <hr>
-            <p class="large-text"><b><i class="fa fa-asterisk fa-fw margin-right text-choco"></i><%= cv.competence.maintitle%></b>
-            </p>
+<div class="third row-padding margin-bottom">
+  <div class="white-bg text-grey card">
+    <div class="display-container">
+      <img src="img/nigsty.jpg" style="width: 100%;" alt="Nigsty Equbamichael Abreha" />
+      <div class="display-bottomleft container text-black">
+        <h2>Nigsty Abreha</h2>
+      </div>
+    </div>
+    <div class="container">
+      <p>
+        <i class="fa fa-briefcase fa-fw margin-right large-text text-choco"></i><%= cv.designation%>
+      </p>
+      <p><i class="fa fa-home fa-fw margin-right large-text text-choco"></i><%= cv.address%></p>
+      <p><i class="fa fa-envelope fa-fw margin-right large-text text-choco"></i><%= cv.email%></p>
+      <p>
+        <i class="fa fa-phone fa-fw margin-right large-text text-choco"></i><%= cv.phonenumber%>
+      </p>
+      <hr />
+      <p class="large-text">
+        <b
+          ><i class="fa fa-asterisk fa-fw margin-right text-choco"></i><%=
+          cv.competence.maintitle%></b
+        >
+      </p>
 
-
-<div class="between-skills">
-    <p class="skill-title"><%=cv.frontend.title %></p>
-    <div>
-        <ul class="rhom">
+      <div class="between-skills">
+        <p class="skill-title"><%=cv.frontend.title %></p>
+        <div>
+          <ul class="rhom">
             <li class="rhom"><a class="rhombus step2"></a></li>
             <li class="rhom"><a class="rhombus step2"></a></li>
             <li class="rhom"><a class="rhombus step2"></a></li>
@@ -30,119 +37,116 @@
             <li class="rhom"><a class="rhombus step2"></a></li>
             <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
             <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-        </ul>
-        <ul class="medium">
-            
+          </ul>
+          <ul class="medium">
             <%cv.frontend.skills.forEach(el=>{%>
-             <li><%= el %></li>
-           <% }) %>
-        </ul>
-    </div>    
-    <hr>
-</div>
-
-<div class="between-skills">
-    <p class="skill-title"><%=cv.oop.title %></p>
-    <div>
-        <ul class="rhom">
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-        </ul>
-        <ul class="medium">
-            
-            <%cv.oop.skills.forEach(el=>{%>
-             <li><%= el %></li>
-           <% }) %>
-        </ul>
-    </div>
-    
-    <hr>
-</div>
-
-<div class="between-skills">
-    <p class="skill-title"><%=cv.nonprocedural.title %></p>
-    <div>
-        <ul class="medium">            
-            <%cv.nonprocedural.skills.forEach(el=>{%>
-             <li><%= el %></li>
-           <% }) %>
-           <ul class="medium">            
-            <%cv.procedural.skills.forEach(el=>{%>
-             <li><%= el %></li>
-           <% }) %>
-        </ul>
-        </ul>
-        
-        
-    </div>
-    
-    <hr>
-</div>
-
-           
-            <!--end of between-skills -->
-        
-            <!--end of between-skills -->
-           
-            <!--end of between-skills -->
-            <p class="large-text"><b><i class="fa fa-globe fa-fw margin-right text-choco"></i><%=cv.languages.title %></b>
-            </p>
-
-            <div class="between-skills">
-                <p class="skill-title"><%=cv.languages.data[0] %> , <%=cv.languages.data[1] %> </p>
-                <div>
-                    <ul class="rhom">
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-                    </ul>
-                </div>
-                <p class="skill-title"><%=cv.languages.data[2] %> , <%=cv.languages.data[3] %></p>
-                <div>
-                    <ul class="rhom">
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                        <li class="rhom"><a class="rhombus step2"></a></li>
-                    </ul>
-                </div>
-                <hr>
-            </div>
-            <p class="large-text"><b><i class="fa fa-map-marker fa-fw margin-right text-choco"></i><%=cv.hobbies.title %> </b>
-            </p>
-            <div class="between-skills">
-                <div>
-                    <ul>
-                        <%cv.hobbies.data.forEach(ele=>{%>
-                           <li><%= ele %></li>
-
-                        <%}) %>
-                    </ul>
-                </div>
-            </div>
-            <hr>
-            <br>
+            <li><%= el %></li>
+            <% }) %>
+          </ul>
         </div>
+        <hr />
+      </div>
+
+      <div class="between-skills">
+        <p class="skill-title"><%=cv.oop.title %></p>
+        <div>
+          <ul class="rhom">
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+          </ul>
+          <ul class="medium">
+            <%cv.oop.skills.forEach(el=>{%>
+            <li><%= el %></li>
+            <% }) %>
+          </ul>
+        </div>
+
+        <hr />
+      </div>
+
+      <div class="between-skills">
+        <p class="skill-title"><%=cv.nonprocedural.title %></p>
+        <div>
+          <ul class="medium">
+            <%cv.nonprocedural.skills.forEach(el=>{%>
+            <li><%= el %></li>
+            <% }) %>
+            <ul class="medium">
+              <%cv.procedural.skills.forEach(el=>{%>
+              <li><%= el %></li>
+              <% }) %>
+            </ul>
+          </ul>
+        </div>
+
+        <hr />
+      </div>
+
+      <!--end of between-skills -->
+
+      <!--end of between-skills -->
+
+      <!--end of between-skills -->
+      <p class="large-text">
+        <b><i class="fa fa-globe fa-fw margin-right text-choco"></i><%=cv.languages.title %></b>
+      </p>
+
+      <div class="between-skills">
+        <p class="skill-title"><%=cv.languages.data[0] %> , <%=cv.languages.data[1] %></p>
+        <div>
+          <ul class="rhom">
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+          </ul>
+        </div>
+        <p class="skill-title"><%=cv.languages.data[2] %> , <%=cv.languages.data[3] %></p>
+        <div>
+          <ul class="rhom">
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+            <li class="rhom"><a class="rhombus step2"></a></li>
+          </ul>
+        </div>
+        <hr />
+      </div>
+      <p class="large-text">
+        <b><i class="fa fa-map-marker fa-fw margin-right text-choco"></i><%=cv.hobbies.title %> </b>
+      </p>
+      <div class="between-skills">
+        <div>
+          <ul>
+            <%cv.hobbies.data.forEach(ele=>{%>
+            <li><%= ele %></li>
+
+            <%}) %>
+          </ul>
+        </div>
+      </div>
+      <hr />
+      <br />
     </div>
+  </div>
 </div>

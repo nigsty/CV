@@ -1,27 +1,9 @@
-//define language areload anchors
-var dataReload = document.querySelectorAll("[data-reload]");
-console.log("Data Reload" + dataReload);
+function myFunction() {
+  let data = window.location.href.split('/');
 
-//language transtlations 
-var language = {
-    eng: {
-        welcome: "Welcome every one!"
-    },
-    de: {
-        welcome: "Familienprojekt und kurze Webentwicklungsaufgaben"
-    }
-};
+  document.getElementById('english').classList.remove('active');
 
-if (window.location.hash) {
-    if (window.location.hash === "#de") {
-        test.textContent = language.de.welcome;
-        console.log(language.eng.welcome)
-    }
+  document.getElementById('deutsch').classList.remove('active');
+
+  document.getElementById(data[3]).classList.add('active');
 }
-
-// define language reload onclick illiteration
-/*     for (i = 0; i <= dataReload.length; i++) {
-    dataReload[i].onclick = function () {
-        location.reload(true);
-    }
-} */

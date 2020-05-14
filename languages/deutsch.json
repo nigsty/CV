@@ -1,4 +1,5 @@
 {
+  "welcome": "Willkommen!",
   "designation": "Frontend Entwicklerin",
   "email": "nigsty_e@yahoo.com",
   "address": "Pfäffikon SZ, CH",
@@ -46,6 +47,11 @@
   "languages": {
     "title": "Sprachen",
     "data": ["Deutsch", "Englisch", "Amharisch,", "Tigrigna"]
+  },
+
+  "hobbies": {
+    "title": "Hobbies & Interessen",
+    "data": ["Schwimmen, Tischtennis,", "Interkulturelles Dolmetschen (Muttersprache < > Deutsch)"]
   },
 
   "experience": {
@@ -176,15 +182,11 @@
         "extra": ""
       },
       {
-        "title": "Diplom in Computer Science, Addis Abeba Universität. Als Diplom einer höheren Fachschule für Technik HF (Informatik) in der Schweiz anerkannt",
+        "title": "Diplom in Computer Science, Addis Abeba Universität.</br> Als Diplom einer höheren Fachschule für Technik HF (Informatik) in der Schweiz anerkannt",
         "from_date": "1992 -",
         "to_date": "1996",
         "extra": ""
       }
     ]
-  },
-  "hobbies": {
-    "title": "Hobbies & Interessen",
-    "data": ["Schwimmen, Tischtennis,", "Interkulturelles Dolmetschen (Muttersprache < > Deutsch)"]
   }
 }

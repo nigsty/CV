@@ -25,7 +25,7 @@ module.exports = () => {
         }
       }
 
-      return response.render('layout', { pageTitle: 'Welcome', template: 'index', cv: cv });
+      return response.render('layout', { pageTitle: 'Welcome!', template: 'index', cv: cv });
     } catch (err) {
       return next(err);
     }
