@@ -18,7 +18,8 @@
       "MsSQL",
       "Drupal",
       "Wordpress",
-      "Webdesign Discipline"
+      "Webdesign Discipline",
+      "App-Developing"
     ]
   },
   "oop": {
@@ -68,8 +69,8 @@
         "from_date": "Aug 2015",
         "to_date": "Aug 2016",
         "tasks": [
-          "Develop web pages: design, programing, from the first idea to the finished product for use. Using HTML, CSS, Javascript",
-          "Silverstripe and Wordpress Open Sources CMS",
+          "Web Development: design, programming, from the first idea to the finished product.",
+          "Front end technologies HTML, CSS, Javascript and Open Sources CMSs Silverstripe and Wordpress ",
           "Advising and assisting customers in the development of their website"
         ]
       },
@@ -154,25 +155,25 @@
         "extra": ""
       },
       {
-        "title": "Web Engineering, Postgraduate Studies Höhere Fachschule Uster (Higher Technical School)",
+        "title": "Web Engineering, Postgraduate Studies Höhere Fachschule (Higher Technical School) Uster Zürich",
         "from_date": "Jan 2013 -",
         "to_date": "Apr 2015",
         "extra": ""
       },
       {
-        "title": "Web Technology, Design & Communication OnlineLabor Zürich Altstetten",
+        "title": "Web Technology, Design & Communication OnlineLabor Altstetten Zürich",
         "from_date": "2013",
         "to_date": "",
         "extra": ""
       },
       {
-        "title": "Exam preparation for the „Goethe-Zertifikat C1“ HBS Rapperswil",
+        "title": "Exam preparation for the „Goethe-Zertifikat C1“ HBS Rapperswil SG",
         "from_date": "2011",
         "to_date": "",
         "extra": ""
       },
       {
-        "title": "CCNA CISCO Certified, Hochschule für Technik Rapperswil-SG",
+        "title": "CCNA CISCO Certified, Hochschule für Technik Rapperswil SG",
         "from_date": "July 2007",
         "to_date": "",
         "extra": ""

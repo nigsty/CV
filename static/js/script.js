@@ -1,5 +1,5 @@
 function myFunction() {
-  let data = window.location.href.split('/');
+  const data = window.location.href.split('/');
 
   document.getElementById('english').classList.remove('active');
 
