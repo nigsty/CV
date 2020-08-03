@@ -277,7 +277,7 @@ li.rhom a {
   color: #8b4513;
 }
 
-@media only screen and (min-width: 601px) {
+@media only screen and (min-width: 768px) {
   .third {
     width: 33.33333%;
   }
