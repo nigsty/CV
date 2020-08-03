@@ -1,22 +1,24 @@
+html,
 body {
   margin: 0;
   padding: 0;
+  font-family: 'futura_bkbook', sans-serif;
 }
 
 * {
   box-sizing: border-box;
 }
 h1 {
-  font-size: 36px;
+  font-size: 32px;
 }
 h2 {
-  font-size: 30px;
+  font-size: 28px;
 }
 h3 {
   font-size: 24px;
 }
 h4 {
-  font-size: 20px;
+  font-size: 22px;
 }
 h5 {
   font-size: 18px;
@@ -31,8 +33,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Segoe UI', Arial, sans-serif;
-  font-weight: 400;
+  font-family: 'futura_bkbook', sans-serif;
   margin: 10px 0;
 }
 .badge,
@@ -54,8 +55,8 @@ h6 {
 .hover-light-choco:hover,
 .light-gray,
 .hover-light-gray:hover {
-  color: #000 !important;
-  background-color: #e9e1dd !important;
+  color: #000;
+  background-color: #e9e1dd;
 }
 .content {
   margin-left: auto;
@@ -92,22 +93,22 @@ img {
 }
 
 .margin-left {
-  margin-left: 16px !important;
+  margin-left: 16px;
 }
 
 .margin-right {
-  margin-right: 16px !important;
+  margin-right: 16px;
 }
 
 .margin-top {
-  margin-top: 16px !important;
+  margin-top: 16px;
 }
 .margin-bottom {
-  margin-bottom: 16px !important;
+  margin-bottom: 16px;
 }
 .padding-16 {
-  padding-top: 16px !important;
-  padding-bottom: 16px !important;
+  padding-top: 16px;
+  padding-bottom: 16px;
 }
 
 .row-padding {
@@ -125,41 +126,41 @@ img {
 }
 .choco,
 .hover-choco:hover {
-  color: #fff !important;
-  background-color: #8b4513 !important;
+  color: #fff;
+  background-color: #8b4513;
 }
 
 .white-bg {
-  background-color: #fff !important;
+  background-color: #fff;
 }
 
 .text-grey {
-  color: #757575 !important;
+  color: #757575;
 }
 
 .text-black {
-  color: #000 !important;
+  color: #000;
 }
 .xxlarge {
-  font-size: 36px !important;
+  font-size: 36px;
 }
 .large-text {
-  font-size: 18px !important;
+  font-size: 18px;
 }
 
 .small {
-  font-size: 12px !important;
+  font-size: 12px;
 }
 .medium {
-  font-size: 14px !important;
+  font-size: 14px;
 }
 
 .tiny {
-  font-size: 10px !important;
+  font-size: 10px;
 }
 .text-choco,
 .hover-text-choco:hover {
-  color: #8b4513 !important;
+  color: #8b4513;
 }
 
 .round-xlarge {
@@ -182,7 +183,7 @@ img {
   opacity: 0.6;
 }
 .opacity-darker {
-  opacity: 1 !important;
+  opacity: 1;
 }
 .round,
 .round-medium {

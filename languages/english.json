@@ -75,6 +75,12 @@
         ]
       },
       {
+        "title": "Family project",
+        "from_date": "Oct 2014",
+        "to_date": "Jul 2015",
+        "tasks": []
+      },
+      {
         "title": "Web Editing, Project Work,  AO Foundation Davos & Dübendorf",
         "from_date": "July 2014",
         "to_date": "Sep 2014",
@@ -98,20 +104,10 @@
         ]
       },
       {
-        "title": "Maternity and help my Ex-husband in own dental practice",
-        "from_date": "Aug 2004",
-        "to_date": "Oct 2007",
+        "title": "Family work, Maternity and 6-month Web project assignment as Internet Designer",
+        "from_date": "Apr 2003",
+        "to_date": "Okt 2007",
         "tasks": []
-      },
-      {
-        "title": "Internet Designer, Stiftung Öko-JOB Foundation, Gelterkinden BL",
-        "from_date": "Jan 2004",
-        "to_date": "Jul 2004",
-        "tasks": [
-          "HTML programming of the website for the ÖKO-JOB Foundation",
-          "Preparation of a draft for the Internet presence of the project „Industrial Path Pratteln",
-          "Image editing in Adobe Photoshop"
-        ]
       },
       {
         "title": "Internet Designer, Systor AG, Basel",
@@ -137,7 +133,7 @@
         "tasks": []
       },
       {
-        "title": "Data Processing, Central Statistical Agency Of Ethiopia, Addis Ababa",
+        "title": "Data Processing, Central Statistical Agency of Ethiopia, Addis Ababa",
         "from_date": "Jan 1995",
         "to_date": "Jul 1996",
         "tasks": []
@@ -152,6 +148,12 @@
         "title": "CAS Frontend Engineering, HSR University of Applied Sciences Rapperswil SG",
         "from_date": "Apr 2020 -",
         "to_date": "Current",
+        "extra": ""
+      },
+      {
+        "title": "Trialog interpreter course, module 2 Orientation in Health, Education and Social entities AOZ Zürich",
+        "from_date": "Oct 2019 -",
+        "to_date": "Dec 2019",
         "extra": ""
       },
       {

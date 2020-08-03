@@ -36,7 +36,7 @@
       "Online Marketing",
       "E-Commerce SEO und SEA",
       "Adobe Indesign, Photoshop, Illustrator",
-      "Prozedurale programmierung"
+      "Prozedurale Programmierung"
     ]
   },
   "procedural": {
@@ -74,6 +74,12 @@
         ]
       },
       {
+        "title": "Familienarbeit",
+        "from_date": "Okt 2014",
+        "to_date": "Jul 2015",
+        "tasks": []
+      },
+      {
         "title": "Web Editing, Projekt Arbeit, AO Foundation, Davos & Dübendorf",
         "from_date": "July 2014",
         "to_date": "Sep 2014",
@@ -95,26 +101,15 @@
         "tasks": [
           "Druckvorlagen mit IGP & Prescribe (Drucker Programmiersprachen) erstellen",
           "Crystal Reports erstellen",
-
           "Datenverarbeitung - erstellen, testen und analysieren von Ferag Produktionsdaten",
           "Telefonischer Support"
         ]
       },
       {
-        "title": "Aushilfe bei meinem Ex-Mann in der Zahnarztpraxis und Mutterschaft",
-        "from_date": "Aug 2004",
+        "title": "Familienarbeit, Mutterschaft und 6-monatiges Web Projekt Einsatz als Internet Designerin",
+        "from_date": "Apr 2003",
         "to_date": "Okt 2007",
         "tasks": []
-      },
-      {
-        "title": "Internet Designerin, Stiftung ÖKO-JOB, Gelterkinden BL",
-        "from_date": "Jan 2004",
-        "to_date": "Jul 2004",
-        "tasks": [
-          "HTML-Programmierung der Website für die Stiftung ÖKO-JOB",
-          "Erstellung eines Entwurfs für den Internet-Auftritt des Projekts „Industrieweg Pratteln“",
-          "Bildbearbeitung in Adobe Photoshop"
-        ]
       },
       {
         "title": "Internet Designerin, Systor AG, Basel",
@@ -155,6 +150,12 @@
         "title": "CAS Frontend Engineering, HSR - Hochschule für Technik Rapperswil SG",
         "from_date": "Apr 2020 -",
         "to_date": "Heute",
+        "extra": ""
+      },
+      {
+        "title": "Dolmetschausbildung Trialog, Modul 2 Orientierung im Gesundheits-, Bildungs- und Sozialwesen AOZ Zürich",
+        "from_date": "Okt 2019 -",
+        "to_date": "Dez 2019",
         "extra": ""
       },
       {
