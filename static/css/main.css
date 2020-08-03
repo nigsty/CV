@@ -51,6 +51,22 @@ h6 {
 .center {
   text-align: center;
 }
+.fa-home:before,
+.fa-briefcase:before,
+.fa-envelope:before,
+.fa-phone:before,
+.fa-calendar:before,
+.fa-globe:before,
+.fa-map-marker:before {
+  font-size: 22px;
+}
+.fa-suitcase:before,
+.fa-certificate:before {
+  font-size: 35px;
+}
+.personal {
+  margin: 8px 0 8px 0;
+}
 .light-choco,
 .hover-light-choco:hover,
 .light-gray,
