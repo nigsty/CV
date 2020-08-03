@@ -70,8 +70,8 @@
         "to_date": "Aug 2016",
         "tasks": [
           "Web Development: design, programming, from the first idea to the finished product.",
-          "Front end technologies HTML, CSS, Javascript and Open Sources CMSs Silverstripe and Wordpress ",
-          "Advising and assisting customers in the development of their website"
+          "Front end technologies HTML, CSS, Javascript and Open Sources CMSs Silverstripe and Wordpress.",
+          "Advising and assisting customers in the development of their website."
         ]
       },
       {
@@ -84,7 +84,9 @@
         "title": "Web Editing, Project Work,  AO Foundation Davos & Dübendorf",
         "from_date": "July 2014",
         "to_date": "Sep 2014",
-        "tasks": ["Upload and extract data from the AO Surgery Reference Content Management System"]
+        "tasks": [
+          "Upload and extract data from the AO Surgery Reference Content Management System."
+        ]
       },
 
       {
@@ -98,9 +100,9 @@
         "from_date": "Nov 2007",
         "to_date": "Mar 2013",
         "tasks": [
-          "Create print templates with IGP & Prescribe printer programming languages and Crystal Reports",
-          "Data processing - create, test and analyze Ferag production data",
-          "Telephone supports"
+          "Create print templates with IGP & Prescribe printer programming languages and Crystal Reports.",
+          "Data processing - create, test and analyze Ferag production data.",
+          "Telephone supports."
         ]
       },
       {
@@ -114,10 +116,9 @@
         "from_date": "Jun 1999",
         "to_date": "Mar 2003",
         "tasks": [
-          "Portal for Corporate Design Guidelines of a major Swiss bank",
-
-          "Publishing the web content, processing web-friendly image materias",
-          "Support for Visual Communication Designers"
+          "Portal for Corporate Design Guidelines of a major Swiss bank.",
+          "Publishing the web content, processing web-friendly image materias.",
+          "Support for Visual Communication Designers."
         ]
       },
       {
