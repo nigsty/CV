@@ -225,8 +225,8 @@ ul.language {
 
 /* sekw for desired angle */
 .step2 {
-  width: 1.3vw;
-  height: 1.3vw;
+  width: 2.6vw;
+  height: 2.6vw;
   transform: skewX(-45deg);
   margin: 5px;
 }
@@ -261,14 +261,15 @@ li.rhom a {
   color: #8b4513;
 }
 
-@media (min-width: 601px) {
+@media only screen and (min-width: 601px) {
   .third {
     width: 33.33333%;
   }
-}
-
-@media (min-width: 601px) {
   .twothird {
     width: 66.66666%;
+  }
+  .step2 {
+    width: 1.3vw;
+    height: 1.3vw;
   }
 }
