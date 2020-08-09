@@ -52,7 +52,7 @@
 
   "hobbies": {
     "title": "Hobbies & Interests",
-    "data": ["Swimming", "Table Tennis", "Intercultural Interpreting (Native Languages & German)"]
+    "data": ["Swimming", "Table Tennis", "Intercultural Interpreting (Native Languages <> German)"]
   },
 
   "experience": {
