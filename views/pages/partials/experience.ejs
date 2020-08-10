@@ -4,8 +4,8 @@
     </h2>
     <% cv.experience.jobs.forEach(ele=>{ %>
         <div class="container">
-            <h6 class="text-choco"><i class="fa fa-calendar fa-fw margin-right"></i><%=ele.from_date %> - <%= ele.to_date%></h6>
-            <h5 class="opacity"><b><%- ele.title %></b></h5>            
+            <h5 class="text-choco"><i class="fa fa-calendar fa-fw margin-right"></i><%=ele.from_date %> - <%= ele.to_date%></h5>
+            <h6 class="opacity"><b><%- ele.title %></b></h6>            
             <p>
                 <ul>
                     <% ele.tasks.forEach(el=>{%>

@@ -4,13 +4,13 @@
   </h2>
   <%cv.education.data.forEach(ele=>{%>
   <div class="container">
-    <h6 class="text-choco">
+    <h5 class="text-choco">
       <i class="fa fa-calendar fa-fw margin-right"></i><%=ele.from_date %> <%=ele.to_date %>
       <small><%= ele.extra %></small>
-    </h6>
-    <h5 class="opacity">
-      <b><%- ele.title %></b>
     </h5>
+    <h6 class="opacity">
+      <b><%- ele.title %></b>
+    </h6>
     <hr />
   </div>
 
