@@ -4,6 +4,7 @@ function myFunction() {
   document.getElementById('english').classList.remove('active');
 
   document.getElementById('deutsch').classList.remove('active');
-
-  document.getElementById(data[3]).classList.add('active');
+  if (data[3]) {
+    document.getElementById(data[3]).classList.add('active');
+  }
 }
