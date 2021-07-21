@@ -62,13 +62,25 @@
     "title": "Work Experience",
     "jobs": [
       {
-        "title": "Healthcare specialist (FaGe)",
+        "title": "Healthcare specialist (FaGe), Seniorenzentrum Brunnenhof, Wangen SZ",
         "from_date": "Aug 2021 ",
         "to_date": "Current",
         "tasks": []
       },
       {
-        "title": "<span class=\"opacity-darker\">Family project</span> and short Web development assignments",
+        "title": "Intercultural Telephone Interpreting, HEKS, Zürich",
+        "from_date": "Mar 2019 ",
+        "to_date": "Current",
+        "tasks": []
+      },
+      {
+        "title": "Intercultural Interpreting & Moderator Women rounds, KOMIN, Schwyz",
+        "from_date": "Sep 2010 ",
+        "to_date": "Jul 2019",
+        "tasks": []
+      },
+      {
+        "title": "<span class=\"opacity-darker\">Family project</span> and short Web development assignments, at Web Agencies",
         "from_date": "Sep 2016 ",
         "to_date": "Apr 2021",
         "tasks": []

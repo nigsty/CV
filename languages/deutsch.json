@@ -61,13 +61,28 @@
     "title": "Berufliche Tätigkeiten",
     "jobs": [
       {
-        "title": "Fachfrau Gesundheit EFZ (FaGe)",
+        "title": "Fachfrau Gesundheit EFZ (FaGe), Seniorenzentrum Brunnenhof, Wangen SZ",
         "from_date": "Aug 2021 ",
         "to_date": "Heute",
         "tasks": []
       },
       {
-        "title": "Familienarbeit und kurze Web Entwicklungs Einsätze",
+        "title": "Interkulturelles Telefondolmetschen, HEKS, Zürich",
+        "from_date": "Mär 2019 ",
+        "to_date": "Heute",
+        "tasks": ["Dolmetschen im Asylverfahren, Rechtsschutz Bundesasylzentren auf Abruf"]
+      },
+      {
+        "title": "Interkulturelles Dolmetschen & Moderatorin Femmes-Tische, KOMIN, Schwyz",
+        "from_date": "Sep 2010 ",
+        "to_date": "Jul 2019",
+        "tasks": [
+          "Interkulturelle Übersetzung Muttersprache < > Deutsch",
+          "Moderieren von Gesprächsrunden für Frauen Information und Erfahrungsaustausch in Muttersprache"
+        ]
+      },
+      {
+        "title": "Familienarbeit und kurze Web Entwicklungs Einsätze, bei Web Agenturen",
         "from_date": "Sep 2016 ",
         "to_date": "Apr 2021",
         "tasks": []
