@@ -1,6 +1,6 @@
 {
   "welcome": "Willkommen!",
-  "designation": "Frontend Entwicklerin",
+  "designation": "Frontend Entwicklerin / FaGe",
   "email": "nigsty_e@yahoo.com",
   "address": "Pfäffikon SZ, CH",
   "phonenumber": "078 845 69 03",
@@ -14,6 +14,8 @@
       "HTML 5",
       "CSS 3",
       "Javascript ES6",
+      "React",
+      "Angular",
       "PHP",
       "MsSQL",
       "Drupal",
@@ -29,6 +31,7 @@
   "nonprocedural": {
     "title": "MISCELLANEOUS",
     "skills": [
+      "Node JS",
       "Eclipse",
       "Git",
       "Internet Kommunikation & Sicherheit",
@@ -58,9 +61,15 @@
     "title": "Berufliche Tätigkeiten",
     "jobs": [
       {
+        "title": "Fachfrau Gesundheit EFZ (FaGe)",
+        "from_date": "Aug 2021 ",
+        "to_date": "Heute",
+        "tasks": []
+      },
+      {
         "title": "Familienarbeit und kurze Web Entwicklungs Einsätze",
         "from_date": "Sep 2016 ",
-        "to_date": "Heute",
+        "to_date": "Apr 2021",
         "tasks": []
       },
       {

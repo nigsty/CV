@@ -1,6 +1,6 @@
 {
   "welcome": "Welcome!",
-  "designation": "Frontend Developer",
+  "designation": "Frontend Developer / Healthcare specialist",
   "email": "nigsty_e@yahoo.com",
   "address": "Pfäffikon SZ, CH",
   "phonenumber": "078 845 69 03",
@@ -14,6 +14,8 @@
       "HTML 5",
       "CSS 3",
       "Javascript ES6",
+      "React",
+      "Angular",
       "PHP",
       "MsSQL",
       "Drupal",
@@ -29,6 +31,7 @@
   "nonprocedural": {
     "title": "MISCELLANEOUS",
     "skills": [
+      "Node JS",
       "Eclipse",
       "Git",
       "Internet communication & security",
@@ -59,9 +62,15 @@
     "title": "Work Experience",
     "jobs": [
       {
+        "title": "Healthcare specialist (FaGe)",
+        "from_date": "Aug 2021 ",
+        "to_date": "Current",
+        "tasks": []
+      },
+      {
         "title": "<span class=\"opacity-darker\">Family project</span> and short Web development assignments",
         "from_date": "Sep 2016 ",
-        "to_date": "Current",
+        "to_date": "Apr 2021",
         "tasks": []
       },
       {
