@@ -1,6 +1,6 @@
 {
   "welcome": "Welcome!",
-  "designation": "Frontend Developer / Healthcare specialist",
+  "designation": "Frontend Developer / Trainee Healthcare specialist",
   "email": "nigsty_e@yahoo.com",
   "address": "Pfäffikon SZ, CH",
   "phonenumber": "078 845 69 03",
@@ -62,7 +62,7 @@
     "title": "Work Experience",
     "jobs": [
       {
-        "title": "Healthcare specialist (FaGe), Seniorenzentrum Brunnenhof, Wangen SZ",
+        "title": "Trainee Healthcare specialist (FaGe), Seniorenzentrum Brunnenhof, Wangen SZ",
         "from_date": "Aug 2021 ",
         "to_date": "Current",
         "tasks": []
@@ -169,7 +169,7 @@
       {
         "title": "CAS Frontend Engineering, HSR University of Applied Sciences Rapperswil SG",
         "from_date": "Apr 2020 -",
-        "to_date": "Current",
+        "to_date": "Jan 2021",
         "extra": ""
       },
       {

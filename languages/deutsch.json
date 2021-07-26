@@ -1,6 +1,6 @@
 {
   "welcome": "Willkommen!",
-  "designation": "Frontend Entwicklerin / FaGe",
+  "designation": "Frontend Entwicklerin / Lehre FaGe",
   "email": "nigsty_e@yahoo.com",
   "address": "Pfäffikon SZ, CH",
   "phonenumber": "078 845 69 03",
@@ -61,7 +61,7 @@
     "title": "Berufliche Tätigkeiten",
     "jobs": [
       {
-        "title": "Fachfrau Gesundheit EFZ (FaGe), Seniorenzentrum Brunnenhof, Wangen SZ",
+        "title": "Lehre Fachfrau Gesundheit EFZ (FaGe), Seniorenzentrum Brunnenhof, Wangen SZ",
         "from_date": "Aug 2021 ",
         "to_date": "Heute",
         "tasks": []
@@ -173,7 +173,7 @@
       {
         "title": "CAS Frontend Engineering, HSR - Hochschule für Technik Rapperswil SG",
         "from_date": "Apr 2020 -",
-        "to_date": "Heute",
+        "to_date": "Jan 2021",
         "extra": ""
       },
       {
