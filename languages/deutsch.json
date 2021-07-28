@@ -70,15 +70,17 @@
         "title": "Interkulturelles Telefondolmetschen, HEKS, Zürich",
         "from_date": "Mär 2019 ",
         "to_date": "Heute",
-        "tasks": ["Dolmetschen im Asylverfahren, Rechtsschutz Bundesasylzentren auf Abruf"]
+        "tasks": [
+          "Dolmetschen am Telefon im Asylverfahren, Rechtsschutz Bundesasylzentren auf Abruf."
+        ]
       },
       {
-        "title": "Interkulturelles Dolmetschen & Moderatorin Femmes-Tische, KOMIN, Schwyz",
+        "title": "Interkulturelles Dolmetschen & Moderatorin Femmes-Tische, KOMIN, Schwyz.",
         "from_date": "Sep 2010 ",
         "to_date": "Jul 2019",
         "tasks": [
-          "Interkulturelle Übersetzung Muttersprache < > Deutsch",
-          "Moderieren von Gesprächsrunden für Frauen Information und Erfahrungsaustausch in Muttersprache"
+          "Vor Ort Interkulturelle Übersetzung Muttersprachen < > Deutsch.",
+          "Moderieren von Gesprächsrunden für Frauen Information und Erfahrungsaustausch in Muttersprachen."
         ]
       },
       {
@@ -170,6 +172,12 @@
   "education": {
     "title": "Studien und Weiterbildungen",
     "data": [
+      {
+        "title": "Goethe-Zertifikat C1",
+        "from_date": "Jul 2021",
+        "to_date": "",
+        "extra": ""
+      },
       {
         "title": "CAS Frontend Engineering, HSR - Hochschule für Technik Rapperswil SG",
         "from_date": "Apr 2020 -",

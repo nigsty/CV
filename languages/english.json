@@ -71,13 +71,18 @@
         "title": "Intercultural Telephone Interpreting, HEKS, Zürich",
         "from_date": "Mar 2019 ",
         "to_date": "Current",
-        "tasks": []
+        "tasks": [
+          "Interpreting via telephone in the Asylum procedure, legal protection at federal asylum centers on demand"
+        ]
       },
       {
         "title": "Intercultural Interpreting & Moderator Women rounds, KOMIN, Schwyz",
         "from_date": "Sep 2010 ",
         "to_date": "Jul 2019",
-        "tasks": []
+        "tasks": [
+          "On-site Intercultural translation mother-tongues <> German",
+          "Moderation of roundtables for women. Information and exchange of experiences in mother-tongues"
+        ]
       },
       {
         "title": "<span class=\"opacity-darker\">Family project</span> and short Web development assignments, at Web Agencies",
@@ -166,6 +171,12 @@
   "education": {
     "title": "Education",
     "data": [
+      {
+        "title": "Goethe-Zertifikat C1",
+        "from_date": "Jul 2021",
+        "to_date": "",
+        "extra": ""
+      },
       {
         "title": "CAS Frontend Engineering, HSR University of Applied Sciences Rapperswil SG",
         "from_date": "Apr 2020 -",
