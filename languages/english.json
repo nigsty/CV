@@ -172,7 +172,7 @@
     "title": "Education",
     "data": [
       {
-        "title": "German Language certificate, Goethe-Zertifikat C1",
+        "title": "German Language certificate, Goethe-Zertifikat C1, ZHAW Winterthur",
         "from_date": "Jul 2021",
         "to_date": "",
         "extra": ""
@@ -181,6 +181,12 @@
         "title": "CAS Frontend Engineering, HSR University of Applied Sciences Rapperswil SG",
         "from_date": "Apr 2020 -",
         "to_date": "Jan 2021",
+        "extra": ""
+      },
+      {
+        "title": "INTERPRET certificate for intercultural interpreting, Bern. Interpreting languages: Amharic & Tigrigna, Official language: German",
+        "from_date": "Aug 2020",
+        "to_date": "",
         "extra": ""
       },
       {

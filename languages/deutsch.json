@@ -173,7 +173,7 @@
     "title": "Studien und Weiterbildungen",
     "data": [
       {
-        "title": "Sprachzertifikat Deutsch, Goethe-Zertifikat C1",
+        "title": "Sprachzertifikat Deutsch, Goethe-Zertifikat C1, ZHAW Winterthur",
         "from_date": "Jul 2021",
         "to_date": "",
         "extra": ""
@@ -182,6 +182,12 @@
         "title": "CAS Frontend Engineering, HSR - Hochschule für Technik Rapperswil SG",
         "from_date": "Apr 2020 -",
         "to_date": "Jan 2021",
+        "extra": ""
+      },
+      {
+        "title": "Zertifikat INTERPRET für interkulturelles Dolmetschen, Bern. Dolmetschsprachen: Amharisch & Tigrinya, Amtssprache: Deutsch",
+        "from_date": "Aug 2020",
+        "to_date": "",
         "extra": ""
       },
       {
