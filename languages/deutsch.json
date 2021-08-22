@@ -61,17 +61,17 @@
     "title": "Berufliche Tätigkeiten",
     "jobs": [
       {
-        "title": "Lehre Fachfrau Gesundheit EFZ (FaGe), Seniorenzentrum Brunnenhof, Wangen SZ",
+        "title": "Lehre Fachfrau Gesundheit EFZ (FaGe), Seniorenzentrum Brunnenhof, Wangen Schwyz",
         "from_date": "Aug 2021 ",
         "to_date": "Heute",
-        "tasks": ["Pflege und Unterstützung im Alltag.", "Medizinische Betreuung und Verwaltung."]
+        "tasks": ["Pflege und Unterstützung im Alltag", "Medizinische Betreuung und Verwaltung"]
       },
       {
         "title": "Interkulturelles Telefondolmetschen, HEKS, Zürich",
         "from_date": "Mär 2019 ",
         "to_date": "Heute",
         "tasks": [
-          "Dolmetschen am Telefon im Asylverfahren, Rechtsschutz Bundesasylzentren auf Abruf."
+          "Dolmetschen am Telefon im Asylverfahren und Rechtsschutz für Bundesasylzentren auf Abruf."
         ]
       },
       {
@@ -79,12 +79,12 @@
         "from_date": "Sep 2010 ",
         "to_date": "Jul 2019",
         "tasks": [
-          "Vor Ort Interkulturelle Übersetzung Muttersprachen < > Deutsch.",
-          "Moderieren vertrauliche Treffen unter Frauen beim Informations- und Erfahrungsaustausch auf Muttersprachen."
+          "Vor Ort interkulturelle Übersetzung Muttersprachen < > Deutsch.",
+          "Moderieren vertraulicher Treffen unter Frauen beim Informations- und Erfahrungsaustausch auf Muttersprachen."
         ]
       },
       {
-        "title": "Familienarbeit und kurze Web Entwicklungs Einsätze, bei Web Agenturen",
+        "title": "Familienarbeit und kurze Web-Entwicklungseinsätze, bei Web-Agenturen",
         "from_date": "Sep 2016 ",
         "to_date": "Apr 2021",
         "tasks": []
@@ -94,9 +94,9 @@
         "from_date": "Aug 2015",
         "to_date": "Aug 2016",
         "tasks": [
-          "Webseiten entwickeln: Design, Programierung, von der ersten Idee bis zum fertigen Produkt.",
-          "Einsatz von HTML, CSS, Javascript und CMSs Silverstripe und Wordpress.",
-          "Kunden bei der Entwicklung ihrer Webseite beraten und betreuen."
+          "Webseiten entwickeln: Design & Programmierung, von der ersten Idee bis zum fertigen Produkt.",
+          "Einsatz von HTML, CSS, Javascript, CMSs Silverstripe und Wordpress.",
+          "Kundenbetreuung und -beratung bei Webseitenentwicklung."
         ]
       },
       {
@@ -106,8 +106,8 @@
         "tasks": []
       },
       {
-        "title": "Web Editing, Projekt Arbeit, AO Foundation, Davos & Dübendorf",
-        "from_date": "July 2014",
+        "title": "Web Editing, Projektarbeit, AO Foundation, Davos & Dübendorf",
+        "from_date": "Jul 2014",
         "to_date": "Sep 2014",
         "tasks": [
           "Hochladen von Daten auf und Extraktion von Daten vom AO Surgery Reference Content Management System."
@@ -123,7 +123,7 @@
       {
         "title": "Datenverarbeitung, Ferag AG, Hinwil Zürich",
         "from_date": "Nov 2007",
-        "to_date": "Mar 2013",
+        "to_date": "Mär 2013",
         "tasks": [
           "Druckvorlagen mit IGP & Prescribe (Drucker Programmiersprachen) erstellen.",
           "Crystal Reports erstellen.",
@@ -173,13 +173,13 @@
     "title": "Studien und Weiterbildungen",
     "data": [
       {
-        "title": "Sprachzertifikat Deutsch, Goethe-Zertifikat C1, ZHAW Winterthur",
+        "title": "Sprachzertifikat Deutsch, Goethe-Zertifikat C1, ZHAW, Winterthur",
         "from_date": "Jul 2021",
         "to_date": "",
         "extra": ""
       },
       {
-        "title": "CAS Frontend Engineering, HSR - Hochschule für Technik Rapperswil SG",
+        "title": "CAS Frontend Engineering, HSR - Hochschule für Technik, Rapperswil SG",
         "from_date": "Apr 2020 -",
         "to_date": "Jan 2021",
         "extra": ""
@@ -191,25 +191,25 @@
         "extra": ""
       },
       {
-        "title": "Dolmetschausbildung Trialog, Modul 2 Orientierung im Gesundheits-, Bildungs- und Sozialwesen AOZ Zürich",
+        "title": "Dolmetschausbildung Trialog, Modul 2: Orientierung im Gesundheits-, Bildungs- und Sozialwesen, AOZ, Zürich",
         "from_date": "Okt 2019 -",
         "to_date": "Dez 2019",
         "extra": ""
       },
       {
-        "title": "Web Engineering, Nachdiplomstudium Höhere Fachschule Uster Zürich",
+        "title": "Web Engineering, Nachdiplomstudium, Höhere Fachschule Uster, Zürich",
         "from_date": "Jan 2013 -",
         "to_date": "Apr 2015",
         "extra": ""
       },
       {
-        "title": "Web-Technik, Gestaltung & Kommunikation OnlineLabor Altstetten Zürich ",
+        "title": "Web-Technik, Gestaltung & Kommunikation, OnlineLabor Altstetten, Zürich ",
         "from_date": "2013",
         "to_date": "",
         "extra": ""
       },
       {
-        "title": "CCNA CISCO Certified, Hochschule für Technik Rapperswil SG",
+        "title": "CCNA CISCO Certified, Hochschule für Technik, Rapperswil SG",
         "from_date": "July 2007",
         "to_date": "",
         "extra": ""
