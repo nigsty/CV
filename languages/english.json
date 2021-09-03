@@ -1,6 +1,6 @@
 {
   "welcome": "Welcome!",
-  "designation": "Frontend Developer / Trainee Healthcare specialist",
+  "designation": "<ul class='Job-title'><li>Frontend Developer & <br/> <li>Trainee Healthcare Specialist</ul>",
   "email": "nigsty_e@yahoo.com",
   "address": "Pfäffikon SZ, CH",
   "phonenumber": "078 845 69 03",
@@ -55,24 +55,28 @@
 
   "hobbies": {
     "title": "Hobbies & Interests",
-    "data": ["Swimming", "Table Tennis", "Intercultural Interpreting (Native Languages <> German)"]
+    "data": [
+      "Swimming",
+      "Table Tennis",
+      "Intercultural Interpreting <br/>(Native Languages <> German)"
+    ]
   },
 
   "experience": {
     "title": "Work Experience",
     "jobs": [
       {
-        "title": "Trainee Healthcare specialist (FaGe), Seniorenzentrum Brunnenhof, Wangen SZ",
+        "title": "Trainee Healthcare Specialist (FaGe), Seniorenzentrum Brunnenhof, Wangen SZ",
         "from_date": "Aug 2021 ",
         "to_date": "Current",
-        "tasks": ["Care and Support in daily routine.", "Medical care and Administration."]
+        "tasks": ["Care and Support in daily routine", "Medical care and Administration"]
       },
       {
-        "title": "Intercultural Telephone Interpreting, HEKS, Zürich",
+        "title": "Intercultural Telephone Interpreting, HEKS, Zurich",
         "from_date": "Mar 2019 ",
         "to_date": "Current",
         "tasks": [
-          "Interpreting via telephone in the Asylum procedure, legal protection at federal asylum centers on demand."
+          "Interpreting via telephone in the asylum procedure and legal protection at federal asylum centers on demand"
         ]
       },
       {
@@ -80,12 +84,12 @@
         "from_date": "Sep 2010 ",
         "to_date": "Jul 2019",
         "tasks": [
-          "On-site Intercultural translation mother tongues <> German.",
-          "Moderate confidential meetings among women to exchange information and experiences in mother tongues."
+          "On-site intercultural translation, mother tongues <> German",
+          "Moderate confidential meetings among women to exchange information and experiences in mother tongues"
         ]
       },
       {
-        "title": "<span class=\"opacity-darker\">Family project</span> and short Web development assignments, at Web Agencies",
+        "title": "<span class=\"opacity-darker\">Family project</span> and short web development assignments at Web Agencies",
         "from_date": "Sep 2016 ",
         "to_date": "Apr 2021",
         "tasks": []
@@ -95,9 +99,9 @@
         "from_date": "Aug 2015",
         "to_date": "Aug 2016",
         "tasks": [
-          "Web Development: design, programming, from the first idea to the finished product.",
-          "Front end technologies HTML, CSS, Javascript and Open Sources CMSs Silverstripe and Wordpress.",
-          "Advising and assisting customers in the development of their website."
+          "Web Development: design and programming from the first idea to the finished product",
+          "Frontend technologies: HTML, CSS, Javascript and Open Sources CMSs: Silverstripe and Wordpress",
+          "Advising and assisting customers in the development of their website"
         ]
       },
       {
@@ -111,7 +115,7 @@
         "from_date": "July 2014",
         "to_date": "Sep 2014",
         "tasks": [
-          "Upload and extract data from the AO Surgery Reference Content Management System."
+          "Uploading and extracting data from the AO Surgery Reference Content Management System"
         ]
       },
 
@@ -126,15 +130,15 @@
         "from_date": "Nov 2007",
         "to_date": "Mar 2013",
         "tasks": [
-          "Create print templates with IGP & Prescribe printer programming languages and Crystal Reports.",
-          "Data processing - create, test and analyze Ferag production data.",
-          "Telephone supports."
+          "Creating print templates with IGP & Prescribe printer programming languages and Crystal Reports",
+          "Data processing create: test and analyze Ferag production data",
+          "Telephone support"
         ]
       },
       {
-        "title": "Family work, Maternity and 6-month Web project assignment as Internet Designer",
+        "title": "Family work, maternity and 6-month web project assignment as Internet Designer",
         "from_date": "Apr 2003",
-        "to_date": "Okt 2007",
+        "to_date": "Oct 2007",
         "tasks": []
       },
       {
@@ -142,9 +146,9 @@
         "from_date": "Jun 1999",
         "to_date": "Mar 2003",
         "tasks": [
-          "Portal for Corporate Design Guidelines of a major Swiss bank.",
-          "Publishing the web content, processing web-friendly image materias.",
-          "Support for Visual Communication Designers."
+          "Portal for Corporate Design Guidelines of a major Swiss bank",
+          "Publishing web content, processing web-friendly image materials",
+          "Support for Visual Communication Designers"
         ]
       },
       {
@@ -154,7 +158,7 @@
         "tasks": []
       },
       {
-        "title": "Computer assistent, University of medicine faculty, Addis Ababa ",
+        "title": "Computer assistant, Addis Ababa University School of Medicine",
         "from_date": "Aug 1996",
         "to_date": "Apr 1998",
         "tasks": []
@@ -172,49 +176,49 @@
     "title": "Education",
     "data": [
       {
-        "title": "German Language certificate, Goethe-Zertifikat C1, ZHAW Winterthur",
+        "title": "German Language Certificate, Goethe-Zertifikat C1, ZHAW Winterthur",
         "from_date": "Jul 2021",
         "to_date": "",
         "extra": ""
       },
       {
-        "title": "CAS Frontend Engineering, HSR University of Applied Sciences Rapperswil SG",
+        "title": "CAS Frontend Engineering, HSR University of Applied Sciences, Rapperswil SG",
         "from_date": "Apr 2020 -",
         "to_date": "Jan 2021",
         "extra": ""
       },
       {
-        "title": "INTERPRET certificate for intercultural interpreting, Bern. <br/>Interpreting languages: Amharic & Tigrigna <br/>Official language: German",
+        "title": "INTERPRET certificate for Intercultural Interpreting, Bern <br/>Interpreting languages: Amharic & Tigrigna <br/>Official language: German",
         "from_date": "Aug 2020",
         "to_date": "",
         "extra": ""
       },
       {
-        "title": "Trialog interpreter course, module 2 Orientation in Health, Education and Social entities AOZ Zürich",
+        "title": "Trialog Interpreter course, Module 2: Orientation in Health, Education and Social entities, AOZ Zürich",
         "from_date": "Oct 2019 -",
         "to_date": "Dec 2019",
         "extra": ""
       },
       {
-        "title": "Web Engineering, Postgraduate Studies Höhere Fachschule (Higher Technical School) Uster Zürich",
+        "title": "Web Engineering, Postgraduate Studies, Höhere Fachschule Uster (Higher Technical School), Zürich",
         "from_date": "Jan 2013 -",
         "to_date": "Apr 2015",
         "extra": ""
       },
       {
-        "title": "Web Technology, Design & Communication OnlineLabor Altstetten Zürich",
+        "title": "Web Technology, Design & Communication at OnlineLabor Altstetten, Zürich",
         "from_date": "2013",
         "to_date": "",
         "extra": ""
       },
       {
-        "title": "CCNA CISCO Certified, Hochschule für Technik Rapperswil SG",
+        "title": "CCNA CISCO Certification, Hochschule für Technik, Rapperswil SG",
         "from_date": "July 2007",
         "to_date": "",
         "extra": ""
       },
       {
-        "title": "Diploma in Computer Science, Addis Abeba University. <br/>Recognized as a Diploma of a Higher Technical School HF (Informatics) in Switzerland",
+        "title": "Diploma in Computer Science, Addis Ababa University <br/>Recognized as a Diploma of a Higher Technical School HF (Informatics) in Switzerland",
         "from_date": "1992 -",
         "to_date": "1996",
         "extra": ""
