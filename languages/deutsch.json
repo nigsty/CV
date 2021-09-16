@@ -1,6 +1,6 @@
 {
   "welcome": "Willkommen!",
-  "designation": "Frontend Entwicklerin / Lehre FaGe",
+  "designation": "<ul class='Job-title'><li>Frontend Entwicklerin & <br/> <li> Lernende FaGe</ul>",
   "email": "nigsty_e@yahoo.com",
   "address": "Pfäffikon SZ, CH",
   "phonenumber": "078 845 69 03",
@@ -61,7 +61,7 @@
     "title": "Berufliche Tätigkeiten",
     "jobs": [
       {
-        "title": "Lehre Fachfrau Gesundheit EFZ (FaGe), Seniorenzentrum Brunnenhof, Wangen Schwyz",
+        "title": "Lernende Fachfrau Gesundheit EFZ (FaGe), Seniorenzentrum Brunnenhof, Wangen Schwyz",
         "from_date": "Aug 2021 ",
         "to_date": "Heute",
         "tasks": ["Pflege und Unterstützung im Alltag", "Medizinische Betreuung und Verwaltung"]
