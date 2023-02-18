@@ -1,6 +1,6 @@
 {
   "welcome": "Welcome!",
-  "designation": "<ul class='Job-title'><li>Frontend Developer & <br/> <li>Trainee Healthcare Specialist</ul>",
+  "designation": "<ul class='Job-title'><li>Trainee Healthcare Specialist & <br/> <li>Frontend Developer</ul>",
   "email": "nigsty_e@yahoo.com",
   "address": "Pfäffikon SZ, CH",
   "phonenumber": "078 845 69 03",
@@ -65,6 +65,12 @@
   "experience": {
     "title": "Work Experience",
     "jobs": [
+      {
+        "title": "Trainee Healthcare Specialist (FaGe), Spitex Höfe, Pfäffikon SZ",
+        "from_date": "17th Oct 2022 ",
+        "to_date": "14th Jan 2023",
+        "tasks": ["Care and Support in daily routine", "Medical care and Administration"]
+      },
       {
         "title": "Trainee Healthcare Specialist (FaGe), Seniorenzentrum Brunnenhof, Wangen SZ",
         "from_date": "Aug 2021 ",

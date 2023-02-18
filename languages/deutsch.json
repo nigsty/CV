@@ -1,6 +1,6 @@
 {
   "welcome": "Willkommen!",
-  "designation": "<ul class='Job-title'><li>Frontend Entwicklerin & <br/> <li> Lernende FaGe</ul>",
+  "designation": "<ul class='Job-title'><li>Lernende FaGe & <br/> <li> Frontend Entwicklerin</ul>",
   "email": "nigsty_e@yahoo.com",
   "address": "Pfäffikon SZ, CH",
   "phonenumber": "078 845 69 03",
@@ -61,11 +61,18 @@
     "title": "Berufliche Tätigkeiten",
     "jobs": [
       {
+        "title": "Lernende Fachfrau Gesundheit EFZ (FaGe), Spitex Höfe, Pfäffikon Schwyz",
+        "from_date": "17. Okt 2022 ",
+        "to_date": "14. Jan 2023",
+        "tasks": ["Pflege und Unterstützung im Alltag", "Medizinische Betreuung und Verwaltung"]
+      },
+      {
         "title": "Lernende Fachfrau Gesundheit EFZ (FaGe), Seniorenzentrum Brunnenhof, Wangen Schwyz",
         "from_date": "Aug 2021 ",
         "to_date": "Okt 2022",
         "tasks": ["Pflege und Unterstützung im Alltag", "Medizinische Betreuung und Verwaltung"]
       },
+      
       {
         "title": "Interkulturelles Telefondolmetschen, HEKS, Zürich",
         "from_date": "Mär 2019 ",
