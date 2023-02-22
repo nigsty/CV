@@ -8,6 +8,13 @@
   "competence": {
     "maintitle": "Skills"
   },
+  "fage": {
+    "title": "FaGe",
+    "skills": [
+      "Care and Support in daily routine",
+      "Medical care and Administration"
+    ]
+  },
   "frontend": {
     "title": "Frontend",
     "skills": [

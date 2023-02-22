@@ -26,70 +26,104 @@
           cv.competence.maintitle%></b
         >
       </p>
-
       <div class="between-skills">
-        <p class="skill-title"><%=cv.frontend.title %></p>
+        <p class="skill-title"><%=cv.fage.title %></p>
         <div>
-          <ul class="rhom">
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-          </ul>
           <ul class="medium">
-            <%cv.frontend.skills.forEach(el=>{%>
+            <%cv.fage.skills.forEach(el=>{%>
             <li><%= el %></li>
             <% }) %>
           </ul>
         </div>
-        <hr />
+      <hr />
+    </div>
+    
+    <div class="tabs">
+      <div class="tab">
+        <input type="checkbox" id="chck1">
+        <label class="tab-label" for="chck1"><%=cv.frontend.title %></label>
+        <div class="tab-content">
+          <div class="between-skills">
+            <!-- <p class="skill-title"><%=cv.frontend.title %></p> -->
+            <div>
+              <ul class="rhom">
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+                <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+              </ul>
+              <ul class="medium">
+                <%cv.frontend.skills.forEach(el=>{%>
+                <li><%= el %></li>
+                <% }) %>
+              </ul>
+            </div>
+            <hr />
+          </div>
+        </div>
       </div>
-
-      <div class="between-skills">
-        <p class="skill-title"><%=cv.oop.title %></p>
-        <div>
-          <ul class="rhom">
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus step2"></a></li>
-            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-            <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
-          </ul>
-          <ul class="medium">
-            <%cv.oop.skills.forEach(el=>{%>
-            <li><%= el %></li>
-            <% }) %>
-          </ul>
+      <div class="tab">
+        <input type="checkbox" id="chck2">
+        <label class="tab-label" for="chck2"><%=cv.oop.title %></label>
+        <div class="tab-content">
+          <div class="between-skills">
+            <!-- <p class="skill-title"><%=cv.oop.title %></p> -->
+            <div>
+              <ul class="rhom">
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus step2"></a></li>
+                <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+                <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+                <li class="rhom"><a class="rhombus-light-choco step2"></a></li>
+              </ul>
+              <ul class="medium">
+                <%cv.oop.skills.forEach(el=>{%>
+                <li><%= el %></li>
+                <% }) %>
+              </ul>
+            </div>
+    
+            <hr />
+          </div>
         </div>
-
-        <hr />
       </div>
-
-      <div class="between-skills">
-        <p class="skill-title"><%=cv.nonprocedural.title %></p>
-        <div>
-          <ul class="medium">
-            <%cv.nonprocedural.skills.forEach(el=>{%>
-            <li><%= el %></li>
-            <% }) %>
-            <ul class="medium">
-              <%cv.procedural.skills.forEach(el=>{%>
-              <li><%= el %></li>
-              <% }) %>
-            </ul>
-          </ul>
+      <div class="tab">
+        <input type="checkbox" id="chck3">
+        <label class="tab-label" for="chck3"><%=cv.nonprocedural.title %></label>
+        <div class="tab-content">
+          <div class="between-skills">
+            <!-- <p class="skill-title"><%=cv.nonprocedural.title %></p> -->
+            <div>
+              <ul class="medium">
+                <%cv.nonprocedural.skills.forEach(el=>{%>
+                <li><%= el %></li>
+                <% }) %>
+                <ul class="medium">
+                  <%cv.procedural.skills.forEach(el=>{%>
+                  <li><%= el %></li>
+                  <% }) %>
+                </ul>
+              </ul>
+            </div>
         </div>
+      </div>
+    </div>
+    
+      
+
+    
+      
 
         <hr />
       </div>

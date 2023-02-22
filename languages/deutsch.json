@@ -8,6 +8,13 @@
   "competence": {
     "maintitle": "Kompetenzen"
   },
+  "fage": {
+    "title": "FaGe",
+    "skills": [
+      "Pflege und Unterstützung im Alltag",
+      "Medizinische Betreuung und Verwaltung"
+    ]
+  },
   "frontend": {
     "title": "Frontend",
     "skills": [
