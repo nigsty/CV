@@ -32,11 +32,11 @@
     ]
   },
   "oop": {
-    "title": "OBJECT ORIENTED PROGRAMMING",
+    "title": "Object Oriented Programming",
     "skills": ["Software Engineering (Software analysis und Software Design)", "Java"]
   },
   "nonprocedural": {
-    "title": "MISCELLANEOUS",
+    "title": "Miscellaneous",
     "skills": [
       "Node JS",
       "Eclipse",
