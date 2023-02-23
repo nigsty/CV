@@ -285,6 +285,10 @@ li.rhom a {
   color: #8b4513;
 }
 
+.extra {
+color: #696969;
+
+}
 @media only screen and (min-width: 768px) {
   .third {
     width: 33.33333%;
