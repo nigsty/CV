@@ -223,6 +223,7 @@ ul {
   padding: 0;
   margin-left: 20px;
   list-style-type: disc;
+  color:#696969;  
 }
 
 ul.language {
@@ -231,7 +232,7 @@ ul.language {
 }
 .language li {
   display: inline;
-  padding-right: 20px;
+  padding-right: 40px;
 }
 
 .language a {
